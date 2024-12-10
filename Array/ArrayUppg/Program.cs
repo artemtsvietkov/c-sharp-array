@@ -123,8 +123,6 @@
         Console.WriteLine("Efter sortering:");
         PrintArray(array);
     
-
-    // Funktion för att skriva ut en array
     static void PrintArray(int[] array)
     {
         foreach (int num in array)
@@ -134,21 +132,16 @@
         Console.WriteLine();
     }
 
-    // Bubble Sort-algoritm
         static void BubbleSort(int[] array)
         {
             int n = array.Length;
             
-            // Loop för att gå igenom hela arrayen
             for (int i = 0; i < n - 1; i++)
             {
-                // Yttre loop gör flera pass genom arrayen
                 for (int j = 0; j < n - i - 1; j++)
                 {
-                    // Om elementet är större än nästa, byt plats
                     if (array[j] > array[j + 1])
                     {
-                        // Byta plats mellan array[j] och array[j + 1]
                         int temp = array[j];
                         array[j] = array[j + 1];
                         array[j + 1] = temp;
