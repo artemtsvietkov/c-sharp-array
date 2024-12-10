@@ -1,0 +1,15 @@
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Array\ArrayUppg\bin\Debug\net8.0\ArrayUppg.exe
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Array\ArrayUppg\bin\Debug\net8.0\ArrayUppg.deps.json
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Array\ArrayUppg\bin\Debug\net8.0\ArrayUppg.runtimeconfig.json
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Array\ArrayUppg\bin\Debug\net8.0\ArrayUppg.dll
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Array\ArrayUppg\bin\Debug\net8.0\ArrayUppg.pdb
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Array\ArrayUppg\obj\Debug\net8.0\ArrayUppg.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Array\ArrayUppg\obj\Debug\net8.0\ArrayUppg.AssemblyInfoInputs.cache
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Array\ArrayUppg\obj\Debug\net8.0\ArrayUppg.AssemblyInfo.cs
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Array\ArrayUppg\obj\Debug\net8.0\ArrayUppg.csproj.CoreCompileInputs.cache
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Array\ArrayUppg\obj\Debug\net8.0\ArrayUppg.sourcelink.json
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Array\ArrayUppg\obj\Debug\net8.0\ArrayUppg.dll
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Array\ArrayUppg\obj\Debug\net8.0\refint\ArrayUppg.dll
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Array\ArrayUppg\obj\Debug\net8.0\ArrayUppg.pdb
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Array\ArrayUppg\obj\Debug\net8.0\ArrayUppg.genruntimeconfig.cache
+c:\Users\artem.tsvietkov\Desktop\c-sharp\Array\ArrayUppg\obj\Debug\net8.0\ref\ArrayUppg.dll
