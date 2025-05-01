@@ -1,0 +1,14 @@
+C:\C++\array och listor\array och listor\bin\Debug\net9.0\array och listor.exe
+C:\C++\array och listor\array och listor\bin\Debug\net9.0\array och listor.deps.json
+C:\C++\array och listor\array och listor\bin\Debug\net9.0\array och listor.runtimeconfig.json
+C:\C++\array och listor\array och listor\bin\Debug\net9.0\array och listor.dll
+C:\C++\array och listor\array och listor\bin\Debug\net9.0\array och listor.pdb
+C:\C++\array och listor\array och listor\obj\Debug\net9.0\array och listor.GeneratedMSBuildEditorConfig.editorconfig
+C:\C++\array och listor\array och listor\obj\Debug\net9.0\array och listor.AssemblyInfoInputs.cache
+C:\C++\array och listor\array och listor\obj\Debug\net9.0\array och listor.AssemblyInfo.cs
+C:\C++\array och listor\array och listor\obj\Debug\net9.0\array och listor.csproj.CoreCompileInputs.cache
+C:\C++\array och listor\array och listor\obj\Debug\net9.0\array och listor.dll
+C:\C++\array och listor\array och listor\obj\Debug\net9.0\refint\array och listor.dll
+C:\C++\array och listor\array och listor\obj\Debug\net9.0\array och listor.pdb
+C:\C++\array och listor\array och listor\obj\Debug\net9.0\array och listor.genruntimeconfig.cache
+C:\C++\array och listor\array och listor\obj\Debug\net9.0\ref\array och listor.dll
